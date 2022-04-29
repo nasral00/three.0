@@ -1,4 +1,4 @@
-# Krypt - Web 3.0 Blockchain Application
+  # three.0 - Web 3.0 Blockchain Application
 
 ![three.0](https://i.ibb.co/ggJFRzc/Screen-Shot-2022-04-28-at-11-33-40-PM.png)
 
