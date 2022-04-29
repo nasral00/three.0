@@ -1,0 +1,4 @@
+{
+  "solidity.defaultCompiler": "localFile",
+  "solidity.compileUsingLocalVersion": "/Users/notrandom/javascript/web3.0/soljson-v0.8.12+commit.f00d7308.js"
+}
