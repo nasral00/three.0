@@ -7,3 +7,5 @@
 This is a code repository for a test Web 3.0 project using React and Solidity smart contracts
 
 This application integrates with MetaMask and allows you to send ETH to other wallets.
+
+You can demo this application here: https://sweet-gumdrop-7e5d4d.netlify.app/
